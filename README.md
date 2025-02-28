@@ -106,13 +106,3 @@ This project demonstrates the importance of data cleaning, formatting, and visua
 - Additional project files and resources.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [Your Email].
